@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2013-11-07 12:14+0900\n"
+"PO-Revision-Date: 2013-11-07 12:17+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .php\n"
+"X-Poedit-SearchPath-0: C:\\Users\\unionnet\\Dropbox\\wordcat\\html.v0.0.2\\wp"
+"\\aviary-photo-editor\n"
+
+#: C:\Users\unionnet\Dropbox\wordcat\html.v0.0.2\wp\aviary-photo-editor/aviary-photo-editor.php:13
+msgid "Sorry, but you cannot access this page directly."
+msgstr "申し訳ありませんが、直接このページにアクセスすることはできません。"
+
+#: C:\Users\unionnet\Dropbox\wordcat\html.v0.0.2\wp\aviary-photo-editor/aviary-photo-editor.php:222
+msgid "Dimensions (w, h)"
+msgstr "サイズ（W、H）"
+
+#: C:\Users\unionnet\Dropbox\wordcat\html.v0.0.2\wp\aviary-photo-editor/aviary-photo-editor.php:252
+msgid "advanced edit"
+msgstr "高度な編集"
+
+#: C:\Users\unionnet\Dropbox\wordcat\html.v0.0.2\wp\aviary-photo-editor/aviary-photo-editor.php:273
+msgid "Edit photo"
+msgstr "画像編集"
+
+#: C:\Users\unionnet\Dropbox\wordcat\html.v0.0.2\wp\aviary-photo-editor/aviary-photo-editor.php:291
+#: C:\Users\unionnet\Dropbox\wordcat\html.v0.0.2\wp\aviary-photo-editor/aviary-photo-editor.php:296
+msgid "Sorry, your nonce did not verify."
+msgstr "申し訳ありませんが、あなたのトークンは確認できませんでした。"
+
+#: C:\Users\unionnet\Dropbox\wordcat\html.v0.0.2\wp\aviary-photo-editor/aviary-photo-editor.php:336
+msgid "Sorry, Unknown error when storing image localy."
+msgstr "不明なエラーが発生しました。"
+
+#: C:\Users\unionnet\Dropbox\wordcat\html.v0.0.2\wp\aviary-photo-editor/aviary-photo-editor.php:352
+msgid "aviary photo editor options"
+msgstr "画像編集オプション"
+
+#: C:\Users\unionnet\Dropbox\wordcat\html.v0.0.2\wp\aviary-photo-editor/aviary-photo-editor.php:363
+msgid "aviary_options"
+msgstr "Aviary 設定"
+
+#: C:\Users\unionnet\Dropbox\wordcat\html.v0.0.2\wp\aviary-photo-editor/aviary-photo-editor.php:364
+msgid "Main Settings"
+msgstr "メイン設定"
+
+#: C:\Users\unionnet\Dropbox\wordcat\html.v0.0.2\wp\aviary-photo-editor/aviary-photo-editor.php:365
+msgid "API-Key:"
+msgstr "API-Key:"
+
+#: C:\Users\unionnet\Dropbox\wordcat\html.v0.0.2\wp\aviary-photo-editor/aviary-photo-editor.php:366
+msgid "Editor Language:"
+msgstr "エディタ言語："
+
+#: C:\Users\unionnet\Dropbox\wordcat\html.v0.0.2\wp\aviary-photo-editor/aviary-photo-editor.php:367
+msgid "Saved File Format:"
+msgstr "保存されたファイル形式："
+
+#: C:\Users\unionnet\Dropbox\wordcat\html.v0.0.2\wp\aviary-photo-editor/aviary-photo-editor.php:396
+msgid "Aviary Options"
+msgstr "Aviary 設定"
+
+#: C:\Users\unionnet\Dropbox\wordcat\html.v0.0.2\wp\aviary-photo-editor/aviary-photo-editor.php:397
+msgid "This will let you configure the Aviary image editor."
+msgstr "これは、 Aviaryの画像エディタの設定ページです。"
+
+#: C:\Users\unionnet\Dropbox\wordcat\html.v0.0.2\wp\aviary-photo-editor/aviary-photo-editor.php:422
+msgid ""
+"To get your api key simply <a href=\"http://www.aviary.com/web-key\" target="
+"\"_blank\">register here</a> for free"
+msgstr ""
+"API-Keyを取得するには次のページより、Aviaryへの登録（無料）が必要です。<br> "
+"<a href=\"http://www.aviary.com/web-key\" target=\"_blank\">Aviary登録ページ"
+"</a> "
